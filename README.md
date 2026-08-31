@@ -8,6 +8,8 @@ Frontend responsivo para consultar CNPJ usando a API pública do CNPJ.ws.
 
 Ao importar o repositório pela Vercel, o projeto usa o branch `main` e os próximos pushes passam a gerar novos deployments automaticamente pela integração Git.
 
+> Deploy automático validado a partir do branch `main`.
+
 ## Funcionalidades
 
 - Máscara e validação de CNPJ
