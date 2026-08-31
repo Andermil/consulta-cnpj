@@ -2,6 +2,12 @@
 
 Frontend responsivo para consultar CNPJ usando a API pública do CNPJ.ws.
 
+## Publicar na Vercel
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FAndermil%2Fconsulta-cnpj&repository-name=consulta-cnpj)
+
+Ao importar o repositório pela Vercel, o projeto usa o branch `main` e os próximos pushes passam a gerar novos deployments automaticamente pela integração Git.
+
 ## Funcionalidades
 
 - Máscara e validação de CNPJ
